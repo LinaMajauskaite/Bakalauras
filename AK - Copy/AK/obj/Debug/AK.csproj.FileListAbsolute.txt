@@ -1,0 +1,34 @@
+C:\Users\Lina\source\repos\AK\AK\bin\Debug\AK.exe.config
+C:\Users\Lina\source\repos\AK\AK\bin\Debug\AK.exe
+C:\Users\Lina\source\repos\AK\AK\bin\Debug\AK.pdb
+C:\Users\Lina\source\repos\AK\AK\bin\Debug\ClosedXML.dll
+C:\Users\Lina\source\repos\AK\AK\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Lina\source\repos\AK\AK\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Lina\source\repos\AK\AK\bin\Debug\FastMember.Signed.dll
+C:\Users\Lina\source\repos\AK\AK\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Lina\source\repos\AK\AK\bin\Debug\System.IO.Packaging.dll
+C:\Users\Lina\source\repos\AK\AK\bin\Debug\ClosedXML.pdb
+C:\Users\Lina\source\repos\AK\AK\bin\Debug\ClosedXML.xml
+C:\Users\Lina\source\repos\AK\AK\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Lina\source\repos\AK\AK\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Lina\source\repos\AK\AK\obj\Debug\AK.csproj.CoreCompileInputs.cache
+C:\Users\Lina\source\repos\AK\AK\obj\Debug\AK.exe
+C:\Users\Lina\source\repos\AK\AK\obj\Debug\AK.pdb
+C:\Users\Lina\source\repos\AK\AK\obj\Debug\AK.csprojResolveAssemblyReference.cache
+C:\Users\Lina\source\repos\AK - Copy\AK\bin\Debug\AK.exe.config
+C:\Users\Lina\source\repos\AK - Copy\AK\bin\Debug\AK.exe
+C:\Users\Lina\source\repos\AK - Copy\AK\bin\Debug\AK.pdb
+C:\Users\Lina\source\repos\AK - Copy\AK\bin\Debug\ClosedXML.dll
+C:\Users\Lina\source\repos\AK - Copy\AK\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Lina\source\repos\AK - Copy\AK\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Lina\source\repos\AK - Copy\AK\bin\Debug\FastMember.Signed.dll
+C:\Users\Lina\source\repos\AK - Copy\AK\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Lina\source\repos\AK - Copy\AK\bin\Debug\System.IO.Packaging.dll
+C:\Users\Lina\source\repos\AK - Copy\AK\bin\Debug\ClosedXML.pdb
+C:\Users\Lina\source\repos\AK - Copy\AK\bin\Debug\ClosedXML.xml
+C:\Users\Lina\source\repos\AK - Copy\AK\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Lina\source\repos\AK - Copy\AK\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Lina\source\repos\AK - Copy\AK\obj\Debug\AK.csproj.CoreCompileInputs.cache
+C:\Users\Lina\source\repos\AK - Copy\AK\obj\Debug\AK.exe
+C:\Users\Lina\source\repos\AK - Copy\AK\obj\Debug\AK.pdb
+C:\Users\Lina\source\repos\AK - Copy\AK\obj\Debug\AK.csprojResolveAssemblyReference.cache
